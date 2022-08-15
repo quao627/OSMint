@@ -6,7 +6,7 @@ This is a Python package for extracting signalized intersections from OpenStreet
 ## Installation
 Please run the following command in terminal to install the package and other dependencies.
 ```
-$ pip install GeoPrivacy==0.0.2
+$ pip install OSMint
 ```
 
 ## Example Usage
